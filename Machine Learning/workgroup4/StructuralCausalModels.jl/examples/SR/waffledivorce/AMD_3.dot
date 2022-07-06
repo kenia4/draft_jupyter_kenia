@@ -1,0 +1,4 @@
+digraph waffles {
+  A -> M;
+  A -> D;
+}
